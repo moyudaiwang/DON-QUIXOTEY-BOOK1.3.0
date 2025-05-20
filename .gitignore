@@ -48,3 +48,4 @@ package-lock.json
 /hydrogen/.mvn/wrapper/maven-wrapper.properties
 /hydrogen/.mvn/wrapper/maven-wrapper.jar
 /hydrogen/.mvn/wrapper/MavenWrapperDownloader.java
+/hydrogen/out/artifacts/hydrogen_jar/hydrogen_jar.jar
